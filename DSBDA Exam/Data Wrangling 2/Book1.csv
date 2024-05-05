@@ -1,0 +1,11 @@
+,Id,Sub,Mark,Result
+1,101,WT,40,pass
+2,102,DSA,50,pass
+3,103,CC,60,pass
+4,104,SE,55,pass
+5,105,OOPS,99,pass
+6,106,CG,35,fail
+7,107,AI,42,pass
+8,NaN,NaN,NaN,NaN
+9,NaN,NaN,NaN,NaN
+10,NaN,NaN,NaN,NaN
